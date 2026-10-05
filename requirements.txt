@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+python-docx
+pydantic
+google-genai
+python-dateutil
+python-dotenv
