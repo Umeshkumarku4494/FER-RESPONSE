@@ -1,7 +1,6 @@
-streamlit
-pymupdf
-python-docx
-pydantic
-google-genai
-python-dateutil
-python-dotenv
+PyMuPDF>=1.23.0
+python-docx>=1.1.0
+pydantic>=2.5.0
+google-genai>=0.1.1
+python-dateutil>=2.8.2
+python-dotenv>=1.0.0
